@@ -3,18 +3,21 @@ body {
     margin: auto;
     
 }
+
 header {
     background-image: url(../images/header-base.jpg);
     height: 100px;
     width: 320px;
+    font-family: 'Fira Sans', sans-serif;
+    
 
 }
 header ul li {
     list-style: none;
     display: inline-block;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     padding: 8px;
-    margin-top: 60px;
+    margin-top: 55px;
     color: #e93633;
     font-weight: bold;
     
@@ -31,7 +34,7 @@ footer ul li {
     color: cornsilk;
     margin-bottom: 15px;
     font-weight: bold; 
-    margin-top: 20px;
+    margin-top: 10px;
     line-height: 0.2; 
 }
 small {
@@ -44,8 +47,42 @@ h2,
 p,
 h3 {
     font-size: 1.2rem;
+    
+    
 }
 
 ul li a {
     text-decoration: none;
+}
+
+a:link {
+    text-decoration:none;
+    
+    }
+a:visited {
+    text-decoration:none;
+    
+    }
+a:hover {
+    text-decoration:underline;
+    color: rgb(8, 207, 233);
+    
+    }
+
+header ul li a {
+    color: #e5eff5;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Fira Sans', sans-serif;
+
+}
+p {
+    font-weight: bolder;
+}
+
+.sponsors {
+    padding-top: 15px;
 }
