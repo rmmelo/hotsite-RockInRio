@@ -1,0 +1,33 @@
+h1,h2,h3 {
+    font-weight: 600;
+    text-align: center;
+    color: red;
+}
+
+
+.line-title {
+    font-size: 16px;
+}
+
+.death,
+.sodom,
+.lost,
+.blink,
+.off,
+.paramore,
+.bastilee,
+.one,
+.fresno {
+    text-align: center;
+    display: flex;
+    font-weight: 600;
+}
+
+.punk-rock,
+.alternative {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 30px;
+}

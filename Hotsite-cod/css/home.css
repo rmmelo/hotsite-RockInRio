@@ -1,0 +1,15 @@
+section {
+    border: crimson dashed 1px;
+    margin-left: 60px;
+}
+section h1 {
+    margin: auto;
+
+}
+.rock-in-rio {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    color: red;
+
+}
