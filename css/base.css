@@ -4,7 +4,7 @@ body {
     
 }
 header {
-    background-image: url(/images/header-base.jpg);
+    background-image: url(../images/header-base.jpg);
     height: 100px;
     width: 320px;
 
@@ -20,7 +20,7 @@ header ul li {
     
 }
 footer {
-    background-image: url(/images/footer-base.jpg);
+    background-image: url(../images/footer-base.jpg);
     height: 100px;
     width: 320px;
     
